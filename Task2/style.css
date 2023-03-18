@@ -1,0 +1,35 @@
+.container {
+    margin: 0 auto;
+    width: 60%;
+    text-align: left;
+    
+  }
+  body{
+    background-image: url("https://t4.ftcdn.net/jpg/04/39/13/37/360_F_439133763_FrLdhZsd5aGC23r9ATARuKJBr8ifZjIe.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+  }
+  
+  h1 {
+    font-size: 3em;
+    margin-top: 2em;
+  }
+  
+  #question {
+    font-size: 2em;
+    margin-top: 2em;
+  }
+  
+  #choices {
+    margin-top: 2em;
+  }
+  
+  button {
+    margin-top: 2em;
+    font-size: 1.5em;
+    padding: 0.5em 1em;
+    border-radius: 5px;
+  }
+  
